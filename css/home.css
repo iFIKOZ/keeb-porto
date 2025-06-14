@@ -1,0 +1,44 @@
+.text{
+    margin-bottom: 5%;
+}
+
+.header{
+display: flex;
+justify-content: center;
+padding: 0px 4rem;
+}
+
+.project-title{
+    justify-content: center;
+}
+.project{
+    padding: 0px 4rem;
+    display: flex;
+}
+.sidea{
+width: 125%;
+}
+.sideb{
+    width: 30%;
+}
+.card-title{
+    padding: 5px 0px 0px 10px;
+}
+
+.other{
+    padding: 0px 4rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.other-body{
+    display: flex;
+}
+.other-body>div{
+    margin: 0px 1rem;
+    font-size: large;
+}
+.card-other{
+width: 50%;
+margin: 0px 10px;
+}
